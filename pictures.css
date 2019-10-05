@@ -1,0 +1,58 @@
+
+
+ul li{
+  display:inline-block;
+  color:black;
+  margin-left:10px;
+}
+ul{
+  text-align:center;
+  padding:10px;
+}
+body{
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:100vh;
+}
+a:hover{
+  color:white;
+}
+header{
+  background-color: green;
+}
+section{
+  background-color: green;
+  height:500px;
+  width:97%;
+margin-left: 400px;
+color:black;
+float: right;
+padding:20px;
+}
+aside{
+  background-color: green;
+  width: 35%;
+  height:500px;
+padding:20px;
+}
+h1{
+  font-size15px;
+  font-weight: bold;
+  font-family: monospace;
+}
+#hero{
+  color:purple;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 275px;
+}
+button{
+  padding:10px;
+  background-color: blue;
+  color:white;
+  border-radius:14px;
+  margin-left: 600px;
+}
+.btn:hover{
+  background-color:red;
+}
